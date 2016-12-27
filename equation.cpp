@@ -33,7 +33,7 @@ jac (double t, const double y[], double *dfdy,
           {
           otvet = (-A/(h*h));
           }
-=          else if (i==j-1)
+          else if (i==j-1)
           {
           otvet = (-A/(h*h));
           }
